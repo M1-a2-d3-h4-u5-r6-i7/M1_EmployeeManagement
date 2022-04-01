@@ -2,4 +2,5 @@
 # Components for Employee Management System
 
 
-    ![image](https://user-images.githubusercontent.com/101162762/161274306-dcd56e27-25ff-4a0d-b507-76d2f9a707d5.png)
+    ![image](https://user-images.githubusercontent.com/101162762/161274456-623043fb-a7cc-4cb1-8472-c28036b3e6eb.png)
+
